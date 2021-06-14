@@ -12,7 +12,8 @@
 	- randPwdgen
 	- weatherApp
 - Technologies
-- setup
+- License
+- Contributing
 
 
 ## General info
@@ -39,4 +40,15 @@ A python script for generating random passwords according to the length the user
 An application for webscraping data on weather from the city the user wants to find out about.
 
 ## Technologies
+project was created with:
+-Python 3.7.3
 
+## License
+This project is hosted under the MIT [LICENSE](https://github.com/atulvc2001/generalPyProjects/blob/main/LICENSE), and is free to be distributed and shared.
+
+## Contributing
+Feel free to contribute to this project, but, be sure to <br>
+- Open up an issue stating the problem/feature to be alerted of.
+- Fork the repository and work on the issue.
+- Send a pull request after finishing up on the code.
+- The code will be reviewed and if all's good, merged into the master branch.
