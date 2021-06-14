@@ -2,15 +2,15 @@
 ## Table of contents
 - Applications 
 	- [EmailSender](###EmailSender)
-	- NumGuesser
-	- URLshortner
-	- alarmClock
-	- binarySearch
-	- diceRolism
-	- keyLogger
-	- mediumArticleReader
-	- randPwdgen
-	- weatherApp
+	- [NumGuesser](###NumGuesser)
+	- [URLshortner](###URLshortner)
+	- [alarmClock](###Alarm Clock)
+	- [binarySearch](###binarySearch)
+	- [diceRolism](###diceRolism)
+	- [keyLogger](###keyLogger)
+	- [mediumArticleReader](###mediumArticleReader)
+	- [randPwdgen](###randPwdgen)
+	- [weatherApp](###weatherApp)
 - Technologies
 - License
 - Contributing
