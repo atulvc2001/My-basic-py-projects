@@ -1,6 +1,16 @@
 # General python projects
 ## Table of contents
 - General info
+	- [`EmailSender`](### EmailSender)
+	- NumGuesser
+	- URLshortner
+	- alarmClock
+	- binarySearch
+	- diceRolism
+	- keyLogger
+	- mediumArticleReader
+	- randPwdgen
+	- weatherApp
 - Technologies
 - setup
 
