@@ -41,7 +41,7 @@ An application for webscraping data on weather from the city the user wants to f
 
 ## Technologies
 project was created with:
--Python 3.7.3
+- Python 3.7.3
 
 ## License
 This project is hosted under the MIT [LICENSE](https://github.com/atulvc2001/generalPyProjects/blob/main/LICENSE), and is free to be distributed and shared.
