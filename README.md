@@ -1,5 +1,5 @@
-# General python projects
-## Table of contents
+#General python projects
+##Table of contents
 - General info
 	- [`EmailSender`](### EmailSender)
 	- NumGuesser
@@ -15,9 +15,9 @@
 - setup
 
 
-## General info
+##General info
 This project is compilation of vanilla python projects that you will most likely encounter when you set out to learn python as a beginner
-### EmailSender
+###EmailSender
 A python script that can send Emails 
-### Alarm Clock
+###Alarm Clock
 An application for reminding the user at a specified time
