@@ -1,16 +1,16 @@
 # General python projects
 ## Table of contents
 - Applications 
-	- [EmailSender](###EmailSender)
-	- [NumGuesser](###NumGuesser)
-	- [URLshortner](###URLshortner)
-	- [alarmClock](###alarmClock)
-	- [binarySearch](###binarySearch)
-	- [diceRolism](###diceRolism)
-	- [keyLogger](###keyLogger)
-	- [mediumArticleReader](###mediumArticleReader)
-	- [randPwdgen](###randPwdgen)
-	- [weatherApp](###weatherApp)
+	- [EmailSender](#EmailSender)
+	- [NumGuesser](#NumGuesser)
+	- [URLshortner](#URLshortner)
+	- [alarmClock](#alarmClock)
+	- [binarySearch](#binarySearch)
+	- [diceRolism](#diceRolism)
+	- [keyLogger](#keyLogger)
+	- [mediumArticleReader](#mediumArticleReader)
+	- [randPwdgen](#randPwdgen)
+	- [weatherApp](#weatherApp)
 - Technologies
 - License
 - Contributing
