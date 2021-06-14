@@ -4,7 +4,7 @@
 	- [EmailSender](###EmailSender)
 	- [NumGuesser](###NumGuesser)
 	- [URLshortner](###URLshortner)
-	- [alarmClock](###Alarm Clock)
+	- [alarmClock](###alarmClock)
 	- [binarySearch](###binarySearch)
 	- [diceRolism](###diceRolism)
 	- [keyLogger](###keyLogger)
