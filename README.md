@@ -20,7 +20,7 @@
 A compilation of vanilla python projects that you will most likely encounter when you set out to learn python as a beginner. This repository will be constantly updated with more simple projects that will pique my interest.
 <br>
 Project Name | Description
-------------- | -------------
+-------------- | -------------
 EmailSender | A python script that can send Emails using the smtp library.
 NumGuesser | A small guessing game where you get three chances to guess a number that's been randomly produced by the random module.
 URLshortner | An application used to shorten URLs by using the [bitly.com](https://bitly.com/) as an api
