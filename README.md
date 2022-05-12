@@ -17,7 +17,7 @@
 
 
 ## General info
-This project is compilation of vanilla python projects that you will most likely encounter when you set out to learn python as a beginner.
+A compilation of vanilla python projects that you will most likely encounter when you set out to learn python as a beginner.
 ### EmailSender
 A python script that can send Emails using the smtp library.
 ### NumGuesser
